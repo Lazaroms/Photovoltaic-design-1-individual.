@@ -1,2 +1,2 @@
-# Photovoltaic-design-1-individual.
+#Photovoltaic Design 1 Single .
 diversity
